@@ -66,11 +66,12 @@ export default function BlogGrid() {
               style={{ textDecoration: "none", color: "inherit" }}
             >
               <img
-                src={post.image_url}
+                src={post.image_url1}
                 alt={post.title}
-                loading="lazy"
+                // loading="lazy"
                 style={{ width: "100%", height: "190px", objectFit: "cover" }}
               />
+
               <div className="blog-card-overlay">
                 <h4 className="blog-card-title">{post.title}</h4>
               </div>
