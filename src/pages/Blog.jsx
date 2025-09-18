@@ -155,7 +155,7 @@ export default function Blog() {
               }}
             >
               <img
-                src={post.image_url}
+                src={post.image_url1}
                 alt={post.title}
                 loading="lazy"
                 style={{
@@ -217,7 +217,7 @@ export default function Blog() {
                   wordBreak: "break-word",
                 }}
               >
-                {post.content}
+                {post.content1}
               </div>
             </motion.article>
           ))
