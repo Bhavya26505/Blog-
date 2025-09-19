@@ -125,6 +125,16 @@ export default function Navbar() {
               @rahi_pinterest
             </a>
           </p>
+          <p>
+            <strong>X:</strong>{" "}
+            <a
+              href="https://x.com/rahi1108?s=11"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              @rahi_X
+            </a>
+          </p>
           <button
             onClick={toggleContact}
             style={{

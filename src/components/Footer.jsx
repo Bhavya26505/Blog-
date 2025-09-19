@@ -1,5 +1,6 @@
 import React from "react";
 import { FaInstagram, FaTwitter } from "react-icons/fa";
+import { FaX } from "react-icons/fa6";
 
 export default function Footer() {
   return (
@@ -15,7 +16,7 @@ export default function Footer() {
       }}
     >
       <div style={{ marginBottom: "1em" }}>
-        <a
+        {/* <a
           href="https://instagram.com/yourprofile"
           target="_blank"
           rel="noopener noreferrer"
@@ -28,12 +29,12 @@ export default function Footer() {
           }}
         >
           <FaInstagram />
-        </a>
+        </a> */}
         <a
-          href="https://twitter.com/yourprofile"
+          href="https://x.com/rahi1108?s=11"
           target="_blank"
           rel="noopener noreferrer"
-          aria-label="Twitter"
+          aria-label="X"
           style={{
             color: "#a3643a",
             margin: "0 0.8em",
@@ -41,10 +42,13 @@ export default function Footer() {
             textDecoration: "none",
           }}
         >
-          <FaTwitter />
+          <FaX />
         </a>
       </div>
-      <p>© {new Date().getFullYear()} Made by Bhavya. All rights reserved.</p>
+      <p>
+       <b> © {new Date().getFullYear()}
+        All rights reserved.</b>{" "}
+      </p>
     </footer>
   );
 }
