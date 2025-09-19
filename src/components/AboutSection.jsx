@@ -13,9 +13,10 @@ export default function AboutSection() {
       >
         <h2>Hi, I'm Rahi.</h2>
         <p>
-          Daughter of the king, sweet coffee lover, ministry owner.
+          I believe life is a blend of lectures, lessons, and little moments
+          that change us and this is where I write about them.
           <br />
-          Discover resources, inspiration, and community made for you.
+          
         </p>
         <Link to="/about">
           <button className="button-primary">Learn More</button>

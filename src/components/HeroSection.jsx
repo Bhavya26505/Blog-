@@ -12,8 +12,11 @@ export default function HeroSection() {
       <div>
         <h1>Welcome to MadeNew!</h1>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Discover
-          beautiful templates and heartfelt stories.
+          A space where I share my journey of growth, self-discovery, and the
+          beautiful balance between academics, creativity, and personal life.
+          Through stories, reflections, and little captured moments, I hope to
+          inspire you to embrace your own path and find meaning in every
+          step of the journey.
         </p>
         <Link to="/blog">
           <button className="button-primary">Get Started</button>
