@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
-const ADMIN_USERNAME = "rahipatelcanada"; // Change as needed
-const ADMIN_PASSWORD = "rahi@vishwa211";
+const ADMIN_USERNAME = "rahipateluot"; // Change as needed
+const ADMIN_PASSWORD = "rahi@uot211";
 
 export default function Login({ onLoginSuccess }) {
   const [username, setUsername] = useState("");
