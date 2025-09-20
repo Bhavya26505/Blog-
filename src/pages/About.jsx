@@ -1,5 +1,5 @@
 import React from "react";
-
+import rahiImage from "./rahi_2.jpg"; // Ensure you have an image named rahi_2.jpg in the same directory
 export default function About() {
   return (
     <main
@@ -122,15 +122,19 @@ export default function About() {
         {/* Left Column: More detail & images */}
         <div>
           <img
-            src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+            src={rahiImage}
             alt="Detail"
             style={{
               width: "100%",
+              maxWidth: "600px", // limit max width
+              height: "400px", // fixed height to avoid elongation
               borderRadius: "10px",
               marginBottom: "1.6em",
               boxShadow: "0 2px 14px rgba(163, 100, 58, 0.08)",
+              objectFit: "cover", // ensure image fills container nicely
             }}
           />
+          
           <p
             style={{
               lineHeight: "1.65",
@@ -146,7 +150,6 @@ export default function About() {
             life. And, sometimes, you’ll just find snapshots of life as I see
             it—moments that spark curiosity, wonder, and inspiration.
           </p>
-
           <p
             style={{ lineHeight: "1.65", color: "#543927", fontSize: "1.1em" }}
           >
@@ -158,7 +161,6 @@ export default function About() {
             journey, no matter how messy or uncertain, holds meaning, growth,
             and beauty.
           </p>
-
           <p
             style={{ lineHeight: "1.65", color: "#543927", fontSize: "1.1em" }}
           >
@@ -213,7 +215,7 @@ export default function About() {
               marginBottom: "0.6em",
             }}
           >
-            Hi There, I am Debbie!
+            Yooo Yooo Yooo!
           </h2>
           <p
             style={{
@@ -222,8 +224,8 @@ export default function About() {
               fontSize: "1.09em",
             }}
           >
-            I help you unlock your feminine energy and live your best life with
-            confidence and purpose. Slay every aspect of your life!
+            {/* I help you unlock your feminine energy and live your best life with
+            confidence and purpose. Slay every aspect of your life! */}
           </p>
           {/* Social links example */}
           <div style={{ display: "flex", gap: "1.2em", marginBottom: "1.4em" }}>

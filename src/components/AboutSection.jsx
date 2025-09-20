@@ -1,4 +1,5 @@
 import React from "react";
+import rahiImg from './rahi.jpg';
 import { Link } from "react-router-dom";
 
 export default function AboutSection() {
@@ -23,8 +24,8 @@ export default function AboutSection() {
         </Link>
       </div>
       <img
-        src="https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=600&q=80"
-        alt="About Anabelle"
+        src={rahiImg}
+        alt="About Rahi"
         style={{ width: "100%", borderRadius: "12px", objectFit: "cover" }}
       />
     </section>

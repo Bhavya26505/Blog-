@@ -10,7 +10,7 @@ export default function HeroSection() {
         style={{ width: "100%", borderRadius: "14px", objectFit: "cover" }}
       />
       <div>
-        <h1>Welcome to MadeNew!</h1>
+        <h1>Welcome to Souled Whispers!</h1>
         <p>
           A space where I share my journey of growth, self-discovery, and the
           beautiful balance between academics, creativity, and personal life.

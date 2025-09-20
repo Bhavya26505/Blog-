@@ -38,7 +38,7 @@ export default function Navbar() {
           style={{ color: "#a3643a", textDecoration: "none" }}
           onClick={closeContact}
         >
-          MadeNew
+          Souled Whispers
         </Link>
       </div>
 
