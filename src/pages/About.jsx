@@ -81,7 +81,7 @@ export default function About() {
           }}
         >
           This blog is my little corner of the internet where I share the
-          journey I’m on—a journey of growth, self-discovery, and learning how
+          journey I’m on a journey of growth, self-discovery, and learning how
           to balance everything life throws at me. Between classes, assignments,
           and responsibilities, I try to carve out time to reflect, create, and
           simply be present. I write about my academic experiences, the things I
