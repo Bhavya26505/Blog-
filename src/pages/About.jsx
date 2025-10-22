@@ -1,5 +1,7 @@
 import React from "react";
-import rahiImage from "./rahi_2.jpg"; // Ensure you have an image named rahi_2.jpg in the same directory
+import rahiImage from "./rahi_2.jpg";
+import rahiImage2 from "./rahi_4.jpg";
+import rahiImage3 from "./rahi_5.jpg"; 
 export default function About() {
   return (
     <main
@@ -178,7 +180,7 @@ export default function About() {
             }}
           >
             <img
-              src="https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=600&q=80"
+              src={rahiImage2}
               alt="Lifestyle"
               style={{
                 width: "100%",
@@ -187,7 +189,7 @@ export default function About() {
               }}
             />
             <img
-              src="https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=600&q=80"
+              src={rahiImage3}
               alt="Self-Care"
               style={{
                 width: "100%",
@@ -215,7 +217,7 @@ export default function About() {
               marginBottom: "0.6em",
             }}
           >
-            Yooo Yooo Yooo!
+            
           </h2>
           <p
             style={{
