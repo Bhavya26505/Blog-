@@ -166,7 +166,7 @@ export default function About() {
           <p
             style={{ lineHeight: "1.65", color: "#543927", fontSize: "1.1em" }}
           >
-            So, thank you for stopping by, and I hope you’ll join me as I
+            So,thank you for stopping by, and I hope you’ll join me as I
             navigate this incredible, unpredictable, and beautiful journey
             called life. Together, let’s celebrate the little victories, reflect
             on the lessons, and embrace the moments that make us who we are.
