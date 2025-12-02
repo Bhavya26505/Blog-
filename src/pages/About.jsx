@@ -183,7 +183,9 @@ export default function About() {
               src={rahiImage2}
               alt="Lifestyle"
               style={{
-                width: "100%",
+                width: "350px",
+                height: "250px",
+                objectFit: "cover",
                 borderRadius: "10px",
                 boxShadow: "0 2px 14px rgba(163, 100, 58, 0.08)",
               }}
@@ -193,6 +195,8 @@ export default function About() {
               alt="Self-Care"
               style={{
                 width: "100%",
+                height: "250px",
+                objectFit: "cover",
                 borderRadius: "10px",
                 boxShadow: "0 2px 14px rgba(163, 100, 58, 0.08)",
               }}
