@@ -136,7 +136,7 @@ export default function About() {
               objectFit: "cover", // ensure image fills container nicely
             }}
           />
-          
+
           <p
             style={{
               lineHeight: "1.65",
@@ -220,9 +220,7 @@ export default function About() {
               fontSize: "1.3em",
               marginBottom: "0.6em",
             }}
-          >
-            
-          </h2>
+          ></h2>
           <p
             style={{
               color: "#543927",
@@ -236,7 +234,7 @@ export default function About() {
           {/* Social links example */}
           <div style={{ display: "flex", gap: "1.2em", marginBottom: "1.4em" }}>
             <a
-              href="https://ca.pinterest.com/rahipatel2005/_profile/"
+              href="https://pin.it/7t2Cd7zLw"
               style={{ color: "#a3643a", fontSize: "1.23em" }}
             >
               Pinterest

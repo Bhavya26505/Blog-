@@ -113,12 +113,12 @@ export default function Navbar() {
           </p>
           <p>
             <strong>Email:</strong>{" "}
-            <a href="mailto:rahi@example.com">rahi@example.com</a>
+            <a href="mailto:rahi072013@gmail.com">Click Me</a>
           </p>
           <p>
             <strong>Pinterest:</strong>{" "}
             <a
-              href="https://pinterest.com/rahi"
+              href="https://pin.it/7t2Cd7zLw"
               target="_blank"
               rel="noopener noreferrer"
             >

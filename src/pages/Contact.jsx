@@ -1,4 +1,4 @@
-import React from "react";
+/*import React from "react";
 import { useState } from "react";
 
 export default function Contact() {
@@ -22,7 +22,7 @@ export default function Contact() {
 
   return (
     <main style={{ background: "#fcf7f2", minHeight: "100vh" }}>
-      {/* Section Header */}
+      {/* Section Header }
       <section
         style={{
           background: "#f8ece3",
@@ -44,7 +44,7 @@ export default function Contact() {
         </h1>
       </section>
 
-      {/* Form Section */}
+      {/* Form Section }
       <section
         style={{
           padding: "2.2em 0",
@@ -182,4 +182,4 @@ const inputStyle = {
   background: "#fcf7f2",
   marginBottom: "0.2em",
   boxSizing: "border-box",
-};
+};*/
