@@ -65,14 +65,16 @@ export default function About() {
             fontSize: "1.15em",
           }}
         >
-          I’m currently a student at University of Toronto studying Molecular
-          Biology with a minor in Chemistry. While I love diving into the
-          fascinating world of science, my passions extend far beyond the lab.
-          Writing is my way of making sense of life, of exploring my thoughts
-          and emotions, and of connecting with others who may be walking a
-          similar path. Painting allows me to express what words sometimes
-          cannot, and you’ll almost always find a camera in my hand, capturing
-          the little details and fleeting moments that make life extraordinary.
+          Someone endlessly curious about how both science and life work beneath
+          the surface. The microscopic world has always fascinated me, and that
+          curiosity led me to pursue Molecular Biology at the University of
+          Toronto. While I love exploring the fascinating world of science, my
+          passions reach far beyond the lab. Writing is how I make sense of
+          life, how I process my thoughts, emotions, and experiences while
+          connecting with others who may be on similar journeys. Painting allows
+          me to express what words sometimes cannot, and you’ll almost always
+          find a camera in my hand, capturing the little details and fleeting
+          moments that make life extraordinary.
         </p>
         <p
           style={{
@@ -82,15 +84,15 @@ export default function About() {
             fontSize: "1.15em",
           }}
         >
-          This blog is my little corner of the internet where I share the
-          journey I’m on a journey of growth, self-discovery, and learning how
-          to balance everything life throws at me. Between classes, assignments,
-          and responsibilities, I try to carve out time to reflect, create, and
-          simply be present. I write about my academic experiences, the things I
-          find fascinating, and the lessons I’m learning along the way. But I
-          also explore the spiritual, emotional, and personal aspects of my
-          life—the moments that shape me as a person, challenge me to grow, and
-          teach me to embrace who I truly am.
+          This blog is my little corner of the internet a space where I share
+          the journey I’m on: one of growth, self-discovery, and learning to
+          find balance amid everything life throws my way. Between classes,
+          assignments, and responsibilities, I try to carve out moments to
+          reflect, create, and simply be present. I write about my academic
+          experiences, the things that capture my curiosity, and the lessons I
+          continue to learn along the way. But I also explore the spiritual,
+          emotional, and personal aspects of my life the moments that shape who
+          I am, challenge me to grow, and teach me to embrace authenticity.
         </p>
         <p
           style={{
@@ -102,11 +104,10 @@ export default function About() {
         >
           Life, I’ve realized, isn’t just about achieving goals or checking
           boxes. It’s about noticing the small things: the quiet moments of
-          clarity, the lessons hidden in challenges, the joy in discovering
-          something new, and the strength that comes from embracing
-          vulnerability. Through this blog, I hope to share not only my
-          experiences and insights but also encouragement and inspiration for
-          anyone navigating their own journey.
+          clarity, the lessons hidden in challenges, the joy of discovery, and
+          the strength that comes from vulnerability. Through this blog, I hope
+          to share not only my experiences and insights but also encouragement
+          and inspiration for anyone navigating their own unique journey.
         </p>
       </section>
 
@@ -148,28 +149,29 @@ export default function About() {
             Here, you’ll find stories about the balance I strive to create
             between academics, creativity, and personal growth. You’ll find
             reflections on emotional resilience, spiritual awakenings, and the
-            little rituals that help me feel grounded in the chaos of everyday
-            life. And, sometimes, you’ll just find snapshots of life as I see
-            it—moments that spark curiosity, wonder, and inspiration.
+            little rituals that help me feel grounded amid the rhythm of
+            everyday life. And sometimes, you’ll just find snapshots of how I
+            see the world moments that spark curiosity, wonder, and inspiration.
           </p>
           <p
             style={{ lineHeight: "1.65", color: "#543927", fontSize: "1.1em" }}
           >
-            If you’ve ever felt torn between responsibilities and self-care,
-            ambition and reflection, or knowledge and creativity—welcome. This
+            If you’ve ever felt torn between responsibility and self-care,
+            ambition and reflection, or knowledge and creativity welcome. This
             space is for anyone who wants to explore, reflect, and grow. My hope
             is that as you read my thoughts and stories, you’ll feel a little
             more connected to yourself and reminded that every step of your
-            journey, no matter how messy or uncertain, holds meaning, growth,
+            journey, no matter how uncertain or messy, carries growth, meaning,
             and beauty.
           </p>
           <p
             style={{ lineHeight: "1.65", color: "#543927", fontSize: "1.1em" }}
           >
-            So,thank you for stopping by, and I hope you’ll join me as I
-            navigate this incredible, unpredictable, and beautiful journey
-            called life. Together, let’s celebrate the little victories, reflect
-            on the lessons, and embrace the moments that make us who we are.
+            So, thank you for stopping by. I’m grateful you’re here and hope
+            you’ll join me as I continue navigating this incredible,
+            unpredictable, and beautiful journey called life. Together, let’s
+            celebrate the small victories, reflect on the lessons, and embrace
+            the moments that make us who we are.
           </p>
           <div
             style={{
