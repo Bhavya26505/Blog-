@@ -65,7 +65,7 @@ export default function About() {
             fontSize: "1.15em",
           }}
         >
-          I'm Someone endlessly curious about how both science and life work beneath
+          I'm someone endlessly curious about how both science and life work beneath
           the surface. The microscopic world has always fascinated me, and that
           curiosity led me to pursue Molecular Biology at the University of
           Toronto. While I love exploring the fascinating world of science, my
